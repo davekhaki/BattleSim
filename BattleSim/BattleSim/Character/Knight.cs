@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BattleSim
+namespace BattleSim.Character
 {
     public class Knight : Character
     {
@@ -16,21 +16,14 @@ namespace BattleSim
 
         private int shield = 100;
 
-        protected override Weapon equippedWeapon 
-        { 
-            get => base.equippedWeapon; 
-            set => base.equippedWeapon = value; 
+        public Knight(int hp, int shield, bool alive) : base(hp, alive)
+        {
+            this.shield = shield;
         }
 
-        public void SwitchWeapon()
+        public override void DealDamage(Character enemy)
         {
-            
-        }
-
-
-        public override void DealDamage()
-        {
-            
+            throw new NotImplementedException();
         }
 
         public override void TakeDamage(int dmg)
@@ -55,6 +48,11 @@ namespace BattleSim
             {
                 Die();
             }
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() + $" SHIELD: {shield}";
         }
     }
 }

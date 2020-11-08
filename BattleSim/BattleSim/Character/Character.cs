@@ -5,16 +5,21 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BattleSim
+namespace BattleSim.Character
 {
     public class Character
     {
         protected virtual int health { get; set; }
-        protected virtual Weapon equippedWeapon { get; set; }
         protected bool alive = true;
 
+        public Character(int hp, bool alive)
+        {
+            health = hp;
+            this.alive = alive;
+        }
 
-        public virtual void DealDamage()
+
+        public virtual void DealDamage(Character enemy)
         {
 
         }
@@ -27,6 +32,11 @@ namespace BattleSim
         public virtual void Die()
         {
             alive = false;
+        }
+
+        public override string ToString()
+        {
+            return $"HP: {health}, ALIVE: {alive}";
         }
     }
 }

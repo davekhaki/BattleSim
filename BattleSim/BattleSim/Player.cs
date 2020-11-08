@@ -8,13 +8,19 @@ namespace BattleSim
 {
     public class Player
     {
-        private Character character;
-        private Weapon equippedWeapon;
+        private Character.Character character;
+        private Weapon.Weapon equippedWeapon;
 
-        public Player(Character character, Weapon equipped)
+        public Player(Character.Character character, Weapon.Weapon equipped)
         {
             this.character = character;
             equippedWeapon = equipped;
         }
+
+        public Character.Character GetCharacter()
+        {
+            return character;
+        }
+
     }
 }

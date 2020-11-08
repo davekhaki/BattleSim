@@ -5,7 +5,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BattleSim
+namespace BattleSim.Weapon
 {
     public class Weapon
     {

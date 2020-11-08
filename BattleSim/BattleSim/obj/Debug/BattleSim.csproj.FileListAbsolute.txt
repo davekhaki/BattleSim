@@ -1,0 +1,11 @@
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\bin\Debug\BattleSim.exe.config
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\bin\Debug\BattleSim.exe
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\bin\Debug\BattleSim.pdb
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\obj\Debug\BattleSim.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\obj\Debug\BattleSim.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\obj\Debug\BattleSim.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\obj\Debug\BattleSim.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\obj\Debug\BattleSim.exe
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\obj\Debug\BattleSim.pdb
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\obj\Debug\BattleSim.CharacterSelect.resources
+C:\Users\david\OneDrive\Desktop\fontys\sem 2 course based\OOD\pratice assignments\week9\battlesim\BattleSim\BattleSim\obj\Debug\BattleSim.Game.resources

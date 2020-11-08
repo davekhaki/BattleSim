@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BattleSim
 {
-    public class Sword : Weapon
+    public class Sword : Weapon.Weapon
     {
-        public Sword(int dmg, double miss, double crit) : base(10, miss, crit)
+        public Sword(int dmg, double miss, double crit) : base(dmg, miss, crit)
         {
 
         }
